@@ -102,7 +102,6 @@ VALUES ('Mr.', 'Hussain', 'Fiaz', 'University of East London', 'Computer Science
 SELECT * FROM EMPLOYEES;
 
 /*Excercise 3.1 List all Employees from the Employees table and who they report to. */
-[21:37] Thasnia Rob
     
 
 SELECT CONCAT(e1.FirstName, ' ', e1.LastName) AS 'Employee Name',
